@@ -41,6 +41,7 @@ const Magi = {
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
@@ -58,11 +59,11 @@ const Magi = {
 ### ⚙️ [Webflow Compiler JS](https://github.com/code-tinker-art/Webflow-Compiler-JS) `JavaScript`
 > Ported the WebFlow compiler to JavaScript — making it accessible directly in the browser. Zero setup, full power.
 
+### 💠 [Webflow Compiler C#](https://github.com/code-tinker-art/Webflow-Compiler-C-Sharp) `C#`
+> The WebFlow compiler reimagined in C# — strongly-typed, precise, and powerful. Three languages, one vision.
+
 ### 🧠 [Levenshtein Distance Web App](https://github.com/code-tinker-art/Levenshtein-website) `JavaScript`
 > Implemented the Levenshtein algorithm to measure string similarity live in the browser. Algorithms meet UI — elegant and fast.
-
-### 🖥️ [Website Demo](https://github.com/code-tinker-art/website-demo-1) `JavaScript`
-> A sleek front-end showcase demonstrating clean design and modern web techniques.
 
 ---
 
