@@ -26,7 +26,7 @@
 const Magi = {
   status:    "💭 Working on projects",
   mindset:   "Build first. Refine always.",
-  stack:     ["JavaScript", "C++", "HTML", "CSS", "p5.js"],
+  stack:     ["JavaScript", "C++", "C#", "HTML", "CSS", "p5.js"],
   strengths: ["Creative Coding", "Compilers", "Algorithms", "Web Tools"],
   motto:     "Every bug is just an undocumented feature waiting to be fixed.",
 };
