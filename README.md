@@ -72,10 +72,6 @@ const Magi = {
 ## 📊 Stats Terminal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-tinker-art&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=00FFFF" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-tinker-art&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF" alt="Top Languages" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-tinker-art&theme=tokyonight&hide_border=true&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF" alt="GitHub Streak" />
 </p>
 
