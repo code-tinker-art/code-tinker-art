@@ -15,7 +15,7 @@
 
 [![X Badge](https://img.shields.io/badge/-@Magi__Codes-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Magi_Codes)
 [![GitHub Badge](https://img.shields.io/badge/-code--tinker--art-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/code-tinker-art)
-
+![Profile views](https://komarev.com/ghpvc/?username=code-tinker-art)
 </div>
 
 ---
