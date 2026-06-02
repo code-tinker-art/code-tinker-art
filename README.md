@@ -26,7 +26,7 @@
 const Magi = {
   status:    "💭 Working on projects",
   mindset:   "Build first. Refine always.",
-  stack:     ["JavaScript", "C++", "C#", "HTML", "CSS", "p5.js"],
+  stack:     ["JavaScript", "Typescript", "C++", "C#", "HTML", "CSS", "p5.js", "nodeJS"],
   strengths: ["Creative Coding", "Compilers", "Algorithms", "Web Tools"],
   motto:     "Every bug is just an undocumented feature waiting to be fixed.",
 };
@@ -40,6 +40,7 @@ const Magi = {
 ## 🛠️ Tech Arsenal
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![nodeJS](https://img.shields.io/badge/NodeJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
