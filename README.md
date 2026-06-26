@@ -50,27 +50,6 @@ const Magi = {
 
 ---
 
-## 🚀 Featured Projects
-
-> *"Great software isn't written — it's forged."*
-
-### 🔧 [WebFlow Compiler](https://github.com/code-tinker-art/WebFlow-compiler-CPP) `C++`
-> Built a custom compiler in C++ that simplifies writing raw HTML. Because life's too short for angle brackets.
-> `lexer → parser → codegen` — all from scratch.
-
-### ⚙️ [Webflow Compiler JS](https://github.com/code-tinker-art/Webflow-Compiler-JS) `JavaScript`
-> Ported the WebFlow compiler to JavaScript — making it accessible directly in the browser. Zero setup, full power.
-> supports modular imports via component system
-
-### 💠 [Webflow Compiler C#](https://github.com/code-tinker-art/Webflow-Compiler-C-Sharp) `C#`
-> The WebFlow compiler reimagined in C# — strongly-typed, precise, and powerful. Three languages, one vision.
-> supports modular imports via component system
-
-### 🧠 [Levenshtein Distance Web App](https://github.com/code-tinker-art/Levenshtein-website) `JavaScript`
-> Implemented the Levenshtein algorithm to measure string similarity live in the browser. Algorithms meet UI — elegant and fast.
-
----
-
 ## 📊 Stats Terminal
 
 <p align="center">
